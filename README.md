@@ -10,4 +10,5 @@
 </ol>
 
 <h2>A Quick Overview</h2>
-![Screenshot_1](https://github.com/user-attachments/assets/f3f6212a-b608-4f31-b409-fd0a6a586c12)
+
+![banner jpg](https://github.com/user-attachments/assets/48a323d5-329d-42f2-80b9-f2196f784dd3)
